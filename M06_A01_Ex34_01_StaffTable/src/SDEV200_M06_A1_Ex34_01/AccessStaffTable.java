@@ -1,8 +1,8 @@
 /**
 * Assignment: SDEV200_M06_A1_Ex34_01
 * File: AccessStaffTable.java
-* Version: 1.0
-* Date: 2/17/2024
+* Version: 1.1
+* Date: 2/19/2024
 * Author: Tomomi Hobara
 * Description: This program displays, inserts and updates staff record on a database table. 
                 The View button displays a record with a specified ID.
@@ -214,7 +214,7 @@ public class AccessStaffTable extends Application {
         // Create a scene and place it in the stage
         Scene scene = new Scene(root, 630, 400);
         primaryStage.setScene(scene);
-        primaryStage.setTitle("Exercise16_17");
+        primaryStage.setTitle("Exercise34_01");
         primaryStage.show();
     }
 
